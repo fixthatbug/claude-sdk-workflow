@@ -1,0 +1,23 @@
+{
+  "date": "2025-11-30",
+  "limit": 10.0,
+  "spent": 10.0,
+  "transactions": [
+    {
+      "timestamp": "2025-11-30T18:46:06.435451",
+      "cost": 5.0,
+      "operation": "test",
+      "metadata": {
+        "model": "haiku"
+      },
+      "running_total": 5.0
+    },
+    {
+      "timestamp": "2025-11-30T18:47:13.132383",
+      "cost": 5.0,
+      "operation": "test",
+      "metadata": {},
+      "running_total": 10.0
+    }
+  ]
+}

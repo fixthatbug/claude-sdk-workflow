@@ -1,0 +1,186 @@
+{
+  "timestamp": "2025-12-01T03:20:21.452767",
+  "dry_run": false,
+  "phases_executed": [
+    {
+      "phase_number": 1,
+      "phase_name": "Clean Python Cache",
+      "files_affected": 59,
+      "files_moved": 0,
+      "files_deleted": 47,
+      "dirs_created": 0,
+      "dirs_removed": 12,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.019914,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "phase_number": 2,
+      "phase_name": "Consolidate Examples",
+      "files_affected": 0,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.000851,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "phase_number": 3,
+      "phase_name": "Organize Documentation",
+      "files_affected": 11,
+      "files_moved": 11,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.0149,
+      "errors": [],
+      "warnings": [
+        "Found 10 .md files in sdk_workflow/ that may need review"
+      ]
+    },
+    {
+      "phase_number": 4,
+      "phase_name": "Consolidate Tests",
+      "files_affected": 4,
+      "files_moved": 4,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.004664,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "phase_number": 5,
+      "phase_name": "Organize Root Directory",
+      "files_affected": 0,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.000502,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "phase_number": 6,
+      "phase_name": "Analyze Manager Modules",
+      "files_affected": 4,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.000674,
+      "errors": [],
+      "warnings": [
+        "Found 4 stub manager modules that may need implementation"
+      ]
+    },
+    {
+      "phase_number": 7,
+      "phase_name": "Organize Scripts",
+      "files_affected": 0,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.00021,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "phase_number": 8,
+      "phase_name": "Code Cleanup",
+      "files_affected": 63,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 20707,
+      "duration_seconds": 0.011804,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "phase_number": 9,
+      "phase_name": "File Organization",
+      "files_affected": 53,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.001355,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "phase_number": 10,
+      "phase_name": "Config Consolidation",
+      "files_affected": 1,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 0,
+      "duration_seconds": 0.00106,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "phase_number": 11,
+      "phase_name": "Dependencies Audit",
+      "files_affected": 2,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 21,
+      "duration_seconds": 0.008199,
+      "errors": [],
+      "warnings": [
+        "requirements.txt: 3 unpinned packages"
+      ]
+    },
+    {
+      "phase_number": 12,
+      "phase_name": "Documentation Cleanup",
+      "files_affected": 35,
+      "files_moved": 0,
+      "files_deleted": 0,
+      "dirs_created": 0,
+      "dirs_removed": 0,
+      "total_size_bytes": 0,
+      "lines_of_code": 10434,
+      "duration_seconds": 0.105112,
+      "errors": [],
+      "warnings": [
+        "README.md: Contains TODO/FIXME markers"
+      ]
+    }
+  ],
+  "total_files_affected": 232,
+  "total_space_saved": 0,
+  "total_duration": 0.169573,
+  "success": true
+}

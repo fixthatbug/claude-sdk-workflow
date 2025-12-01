@@ -1,0 +1,152 @@
+================================================================================
+SYSTEM CLEANUP REPORT
+================================================================================
+Timestamp: 2025-12-01T03:20:21.452767
+Mode: LIVE
+Status: SUCCESS
+Duration: 0.17s
+================================================================================
+SUMMARY
+================================================================================
+Total files affected: 232
+Total space saved: 0.00 B
+================================================================================
+PHASE 1: Clean Python Cache
+================================================================================
+Duration: 0.02s
+Files affected: 59
+Files moved: 0
+Files deleted: 47
+Directories created: 0
+Directories removed: 12
+Size freed: 0.00 B
+Lines of code: 0
+================================================================================
+PHASE 2: Consolidate Examples
+================================================================================
+Duration: 0.00s
+Files affected: 0
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 0
+================================================================================
+PHASE 3: Organize Documentation
+================================================================================
+Duration: 0.01s
+Files affected: 11
+Files moved: 11
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 0
+Warnings:
+ - Found 10 .md files in sdk_workflow/ that may need review
+================================================================================
+PHASE 4: Consolidate Tests
+================================================================================
+Duration: 0.00s
+Files affected: 4
+Files moved: 4
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 0
+================================================================================
+PHASE 5: Organize Root Directory
+================================================================================
+Duration: 0.00s
+Files affected: 0
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 0
+================================================================================
+PHASE 6: Analyze Manager Modules
+================================================================================
+Duration: 0.00s
+Files affected: 4
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 0
+Warnings:
+ - Found 4 stub manager modules that may need implementation
+================================================================================
+PHASE 7: Organize Scripts
+================================================================================
+Duration: 0.00s
+Files affected: 0
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 0
+================================================================================
+PHASE 8: Code Cleanup
+================================================================================
+Duration: 0.01s
+Files affected: 63
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 20707
+================================================================================
+PHASE 9: File Organization
+================================================================================
+Duration: 0.00s
+Files affected: 53
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 0
+================================================================================
+PHASE 10: Config Consolidation
+================================================================================
+Duration: 0.00s
+Files affected: 1
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 0
+================================================================================
+PHASE 11: Dependencies Audit
+================================================================================
+Duration: 0.01s
+Files affected: 2
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 21
+Warnings:
+ - requirements.txt: 3 unpinned packages
+================================================================================
+PHASE 12: Documentation Cleanup
+================================================================================
+Duration: 0.11s
+Files affected: 35
+Files moved: 0
+Files deleted: 0
+Directories created: 0
+Directories removed: 0
+Size freed: 0.00 B
+Lines of code: 10434
+Warnings:
+ - README.md: Contains TODO/FIXME markers
