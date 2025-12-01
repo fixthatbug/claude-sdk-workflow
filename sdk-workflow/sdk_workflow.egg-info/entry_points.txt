@@ -1,2 +1,0 @@
-[console_scripts]
-sdk-workflow = sdk_workflow.cli.main:main
