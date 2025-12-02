@@ -1,0 +1,1 @@
+# ultrathink, research and discuss if any of the code in this repo could be worth to integrate into the refactored code base
